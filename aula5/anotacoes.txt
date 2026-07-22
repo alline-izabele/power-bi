@@ -1,0 +1,5 @@
+fórmulas dax
+
+bloco - segmentacao de dados
+cartao de linhas multiplas
+grafico de barras clusterizado
